@@ -24,24 +24,18 @@ const emailRegex = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
            <h2>Sobre mim</h2>
 
                <p>
-                   Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                  Dicta assumenda, quasi sit reiciendis nihil id enim facilis
-                iste exercitationem nostrum minus ipsa neque officia dolorum
-            ea optio est quis magni.
-        </p>
-
-        <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-            Dicta assumenda, quasi sit reiciendis nihil id enim facilis
-            iste exercitationem nostrum minus ipsa neque officia dolorum
-            ea optio est quis magni.
+                Me chamo Paulo e estou em transição de carreira para a área de tecnologia.
+                 Atualmente desenvolvo projetos tanto em backend quanto em frontend, aplicando na 
+                 prática os conhecimentos adquiridos por meio de bootcamps, 
+                 faculdade e projetos pessoais. Meu objetivo é evoluir constantemente como 
+                 desenvolvedor e gerar impacto real no mercado através das minhas habilidades.
         </p>
 
         <div class="about-buttons-data">
 
             <div class="buttons-container">
                 <a href="${perfil.html_url}" target="_blank" class="botao">GitHub</a>
-                <a href="#" target="_blank" class="botao-outline">Currículo</a>
+                <a href="assets/curriculo/CurriculoDev.pdf" target="_blank" class="botao">Currículo</a>
             </div>
 
             <div class="data-container">
