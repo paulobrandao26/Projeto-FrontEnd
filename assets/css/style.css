@@ -606,7 +606,7 @@ footer {
       display: none;
   }
  }
-}
+
 /* Hero */
 .hero-container {
   flex-direction: column-reverse;
@@ -751,7 +751,7 @@ footer {
   width: 5rem;
   height: 5rem;
 }
-
+}
 @media screen and (max-width: 480px) {
 
   /* Layout */
