@@ -579,7 +579,7 @@ footer {
           contrast(96%)  
 }
 
-@media screen and (max-width: 1024){
+@media screen and (max-width: 1024px){
   .section-container{
     padding: var(--spacing-lg) var(--spacing-md);
   }
