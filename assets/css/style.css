@@ -9,17 +9,17 @@
   }
   :root {
   /* Paleta de Cores - Purple */
-  --purple-50: #f4eaff;
-  --purple-100: #e9dcfa;
-  --purple-200: #cdb3f0;
-  --purple-300: #b186e5;
-  --purple-400: #9460db;
-  --purple-500: #6b36c8;
-  --purple-600: #5b2ca0;
-  --purple-700: #4c2177;
-  --purple-800: #441f88;
-  --purple-900: #2a0e4d;
-
+ --purple-50: #fff8ed;
+--purple-100: #fff0d5;
+--purple-200: #ffdda9;
+--purple-300: #fec573;
+--purple-400: #fda13a;
+--purple-500: #fb810e;
+--purple-600: #ec680a;
+--purple-700: #c44e0a;
+--purple-800: #9b3d11;
+--purple-900: #7d3511;
+--purple-950: #441906;
   /* Cores Neutras */
   --gray-200: #e8e8e8;
   --gray-400: #505861;
@@ -244,7 +244,7 @@ header a:hover{
     transform: translateY(0);
   }
   50% {
-    transform: translatey(0);
+    transform: translatey(+20px);
   }
 }
 
