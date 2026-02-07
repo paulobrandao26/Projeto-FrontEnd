@@ -9,17 +9,17 @@
   }
   :root {
   /* Paleta de Cores - Purple */
- --purple-50: #fff8ed;
---purple-100: #fff0d5;
---purple-200: #ffdda9;
---purple-300: #fec573;
---purple-400: #fda13a;
---purple-500: #fb810e;
---purple-600: #ec680a;
---purple-700: #c44e0a;
---purple-800: #9b3d11;
---purple-900: #7d3511;
---purple-950: #441906;
+ --purple-50: #eeffe4;
+--purple-100: #d9ffc5;
+--purple-200: #b5ff92;
+--purple-300: #30ad07;
+--purple-400: #4dc205d3;
+--purple-500: #30ad07;
+--purple-600: #30ad07;
+--purple-700: #1f8902;
+--purple-800: #1c6c08;
+--purple-900: #1b5b0c;
+--purple-950: #083300;
   /* Cores Neutras */
   --gray-200: #e8e8e8;
   --gray-400: #505861;
